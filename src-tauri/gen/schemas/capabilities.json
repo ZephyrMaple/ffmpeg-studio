@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capabilities for FFmpeg Studio","local":true,"windows":["main"],"permissions":["core:event:allow-listen","core:event:allow-emit","core:resources:default","core:path:default","core:window:default","shell:allow-execute","shell:allow-spawn","fs:scope-resource","dialog:default"]}}

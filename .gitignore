@@ -1,0 +1,17 @@
+# 依赖与构建产物
+node_modules/
+dist/
+src-tauri/target/
+
+# 第三方二进制（FFmpeg 可执行文件，体积大，不入库）
+resources/ffmpeg/bin/
+
+# 安装包产物
+*.exe
+
+# 本地项目数据（记忆/备份）
+.workbuddy/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
