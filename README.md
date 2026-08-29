@@ -17,7 +17,7 @@
 
 下载安装包并运行即可，无需额外配置：
 
-- [FFmpeg Studio_0.3.0_x64-setup.exe](FFmpeg%20Studio_0.3.0_x64-setup.exe)
+- [FFmpeg Studio_0.3.0_x64-setup.exe](https://github.com/ZephyrMaple/ffmpeg-studio/releases/download/v0.3.0/FFmpeg%20Studio_0.3.0_x64-setup.exe)
 
 > 安装包已内置 ffmpeg / ffprobe，安装后开箱即用。
 
